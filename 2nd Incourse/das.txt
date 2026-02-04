@@ -1,0 +1,680 @@
+ 
+ Iteration   Func-count     min f(x)         Procedure
+     0            1              298         
+     1            3              298         initial simplex
+     2            5           268.07         expand
+     3            7          244.582         expand
+     4            9          191.078         expand
+     5           11          141.083         expand
+     6           13          126.363         reflect
+     7           15          112.998         reflect
+     8           17          112.998         contract outside
+     9           19          112.998         contract inside
+    10           20          112.998         reflect
+    11           22          98.9863         expand
+    12           23          98.9863         reflect
+    13           25           77.502         expand
+    14           27          60.0712         expand
+    15           29          1.10073         expand
+    16           31         -40.4548         expand
+    17           33         -199.821         expand
+    18           35         -248.217         expand
+    19           37         -608.994         expand
+    20           38         -608.994         reflect
+    21           40         -939.805         expand
+    22           42         -1637.29         expand
+    23           44         -1971.61         expand
+    24           46            -4077         expand
+    25           47            -4077         reflect
+    26           49         -7476.16         expand
+    27           51         -9891.53         expand
+    28           53         -19198.3         expand
+    29           55         -24589.3         expand
+    30           57         -49565.6         expand
+    31           58         -49565.6         reflect
+    32           60          -100674         expand
+    33           61          -100674         reflect
+    34           63          -202836         expand
+    35           64          -202836         reflect
+    36           66          -383308         expand
+    37           68          -505939         expand
+    38           70          -891894         expand
+    39           72     -1.35928e+06         expand
+    40           74     -2.17995e+06         expand
+    41           76     -3.53052e+06         expand
+    42           78     -4.79414e+06         expand
+    43           80     -7.26191e+06         expand
+    44           81     -7.26191e+06         reflect
+    45           83     -7.34894e+06         reflect
+    46           85     -1.04698e+07         expand
+    47           86     -1.04698e+07         reflect
+    48           88     -1.61194e+07         expand
+    49           89     -1.61194e+07         reflect
+    50           91      -2.3962e+07         expand
+ 
+Exiting: Maximum number of iterations has been exceeded
+         - increase MaxIter option.
+         Current function value: -23961988.061181 
+
+
+x =
+
+   1.0e+05 *
+
+   -0.0007   -2.4837
+
+
+fval =
+
+  -2.3962e+07
+
+ 
+ Iteration   Func-count     min f(x)         Procedure
+     0            1              298         
+     1            3              298         initial simplex
+     2            5           268.07         expand
+     3            7          244.582         expand
+     4            9          191.078         expand
+     5           11          141.083         expand
+     6           13          126.363         reflect
+     7           15          112.998         reflect
+     8           17          112.998         contract outside
+     9           19          112.998         contract inside
+    10           20          112.998         reflect
+    11           22          98.9863         expand
+    12           23          98.9863         reflect
+    13           25           77.502         expand
+    14           27          60.0712         expand
+    15           29          1.10073         expand
+    16           31         -40.4548         expand
+    17           33         -199.821         expand
+    18           35         -248.217         expand
+    19           37         -608.994         expand
+    20           38         -608.994         reflect
+    21           40         -939.805         expand
+    22           42         -1637.29         expand
+    23           44         -1971.61         expand
+    24           46            -4077         expand
+    25           47            -4077         reflect
+    26           49         -7476.16         expand
+    27           51         -9891.53         expand
+    28           53         -19198.3         expand
+    29           55         -24589.3         expand
+    30           57         -49565.6         expand
+    31           58         -49565.6         reflect
+    32           60          -100674         expand
+    33           61          -100674         reflect
+    34           63          -202836         expand
+    35           64          -202836         reflect
+    36           66          -383308         expand
+    37           68          -505939         expand
+    38           70          -891894         expand
+    39           72     -1.35928e+06         expand
+    40           74     -2.17995e+06         expand
+    41           76     -3.53052e+06         expand
+    42           78     -4.79414e+06         expand
+    43           80     -7.26191e+06         expand
+    44           81     -7.26191e+06         reflect
+    45           83     -7.34894e+06         reflect
+    46           85     -1.04698e+07         expand
+    47           86     -1.04698e+07         reflect
+    48           88     -1.61194e+07         expand
+    49           89     -1.61194e+07         reflect
+    50           91      -2.3962e+07         expand
+ 
+Exiting: Maximum number of iterations has been exceeded
+         - increase MaxIter option.
+         Current function value: -23961988.061181 
+
+
+x =
+
+   1.0e+05 *
+
+   -0.0007   -2.4837
+
+
+fval =
+
+  -2.3962e+07
+
+ 
+ Iteration   Func-count     min f(x)         Procedure
+     0            1              298         
+     1            3              298         initial simplex
+     2            5           268.07         expand
+     3            7          244.582         expand
+     4            9          191.078         expand
+     5           11          141.083         expand
+     6           13          126.363         reflect
+     7           15          112.998         reflect
+     8           17          112.998         contract outside
+     9           19          112.998         contract inside
+    10           20          112.998         reflect
+    11           22          98.9863         expand
+    12           23          98.9863         reflect
+    13           25           77.502         expand
+    14           27          60.0712         expand
+    15           29          1.10073         expand
+    16           31         -40.4548         expand
+    17           33         -199.821         expand
+    18           35         -248.217         expand
+    19           37         -608.994         expand
+    20           38         -608.994         reflect
+    21           40         -939.805         expand
+    22           42         -1637.29         expand
+    23           44         -1971.61         expand
+    24           46            -4077         expand
+    25           47            -4077         reflect
+    26           49         -7476.16         expand
+    27           51         -9891.53         expand
+    28           53         -19198.3         expand
+    29           55         -24589.3         expand
+    30           57         -49565.6         expand
+    31           58         -49565.6         reflect
+    32           60          -100674         expand
+    33           61          -100674         reflect
+    34           63          -202836         expand
+    35           64          -202836         reflect
+    36           66          -383308         expand
+    37           68          -505939         expand
+    38           70          -891894         expand
+    39           72     -1.35928e+06         expand
+    40           74     -2.17995e+06         expand
+    41           76     -3.53052e+06         expand
+    42           78     -4.79414e+06         expand
+    43           80     -7.26191e+06         expand
+    44           81     -7.26191e+06         reflect
+    45           83     -7.34894e+06         reflect
+    46           85     -1.04698e+07         expand
+    47           86     -1.04698e+07         reflect
+    48           88     -1.61194e+07         expand
+    49           89     -1.61194e+07         reflect
+    50           91      -2.3962e+07         expand
+ 
+Exiting: Maximum number of iterations has been exceeded
+         - increase MaxIter option.
+         Current function value: -23961988.061181 
+
+
+x =
+
+   1.0e+05 *
+
+  Column 1
+
+   -0.0007
+
+  Column 2
+
+   -2.4837
+
+
+fval =
+
+  -2.3962e+07
+
+ 
+ Iteration   Func-count     min f(x)         Procedure
+     0            1              298         
+     1            3              298         initial simplex
+     2            5           268.07         expand
+     3            7          244.582         expand
+     4            9          191.078         expand
+     5           11          141.083         expand
+     6           13          126.363         reflect
+     7           15          112.998         reflect
+     8           17          112.998         contract outside
+     9           19          112.998         contract inside
+    10           20          112.998         reflect
+    11           22          98.9863         expand
+    12           23          98.9863         reflect
+    13           25           77.502         expand
+    14           27          60.0712         expand
+    15           29          1.10073         expand
+    16           31         -40.4548         expand
+    17           33         -199.821         expand
+    18           35         -248.217         expand
+    19           37         -608.994         expand
+    20           38         -608.994         reflect
+    21           40         -939.805         expand
+    22           42         -1637.29         expand
+    23           44         -1971.61         expand
+    24           46            -4077         expand
+    25           47            -4077         reflect
+    26           49         -7476.16         expand
+    27           51         -9891.53         expand
+    28           53         -19198.3         expand
+    29           55         -24589.3         expand
+    30           57         -49565.6         expand
+    31           58         -49565.6         reflect
+    32           60          -100674         expand
+    33           61          -100674         reflect
+    34           63          -202836         expand
+    35           64          -202836         reflect
+    36           66          -383308         expand
+    37           68          -505939         expand
+    38           70          -891894         expand
+    39           72     -1.35928e+06         expand
+    40           74     -2.17995e+06         expand
+    41           76     -3.53052e+06         expand
+    42           78     -4.79414e+06         expand
+    43           80     -7.26191e+06         expand
+    44           81     -7.26191e+06         reflect
+    45           83     -7.34894e+06         reflect
+    46           85     -1.04698e+07         expand
+    47           86     -1.04698e+07         reflect
+    48           88     -1.61194e+07         expand
+    49           89     -1.61194e+07         reflect
+    50           91      -2.3962e+07         expand
+ 
+Exiting: Maximum number of iterations has been exceeded
+         - increase MaxIter option.
+         Current function value: -23961988.061181 
+
+ 
+ Iteration   Func-count     min f(x)         Procedure
+     0            1              298         
+     1            3              298         initial simplex
+     2            5           268.07         expand
+     3            7          244.582         expand
+     4            9          191.078         expand
+     5           11          141.083         expand
+     6           13          126.363         reflect
+     7           15          112.998         reflect
+     8           17          112.998         contract outside
+     9           19          112.998         contract inside
+    10           20          112.998         reflect
+    11           22          98.9863         expand
+    12           23          98.9863         reflect
+    13           25           77.502         expand
+    14           27          60.0712         expand
+    15           29          1.10073         expand
+    16           31         -40.4548         expand
+    17           33         -199.821         expand
+    18           35         -248.217         expand
+    19           37         -608.994         expand
+    20           38         -608.994         reflect
+    21           40         -939.805         expand
+    22           42         -1637.29         expand
+    23           44         -1971.61         expand
+    24           46            -4077         expand
+    25           47            -4077         reflect
+    26           49         -7476.16         expand
+    27           51         -9891.53         expand
+    28           53         -19198.3         expand
+    29           55         -24589.3         expand
+    30           57         -49565.6         expand
+    31           58         -49565.6         reflect
+    32           60          -100674         expand
+    33           61          -100674         reflect
+    34           63          -202836         expand
+    35           64          -202836         reflect
+    36           66          -383308         expand
+    37           68          -505939         expand
+    38           70          -891894         expand
+    39           72     -1.35928e+06         expand
+    40           74     -2.17995e+06         expand
+    41           76     -3.53052e+06         expand
+    42           78     -4.79414e+06         expand
+    43           80     -7.26191e+06         expand
+    44           81     -7.26191e+06         reflect
+    45           83     -7.34894e+06         reflect
+    46           85     -1.04698e+07         expand
+    47           86     -1.04698e+07         reflect
+    48           88     -1.61194e+07         expand
+    49           89     -1.61194e+07         reflect
+    50           91      -2.3962e+07         expand
+ 
+Exiting: Maximum number of iterations has been exceeded
+         - increase MaxIter option.
+         Current function value: -23961988.061181 
+
+ 
+ Iteration   Func-count     min f(x)         Procedure
+     0            1              298         
+     1            3              298         initial simplex
+     2            5           268.07         expand
+     3            7          244.582         expand
+     4            9          191.078         expand
+     5           11          141.083         expand
+     6           13          126.363         reflect
+     7           15          112.998         reflect
+     8           17          112.998         contract outside
+     9           19          112.998         contract inside
+    10           20          112.998         reflect
+    11           22          98.9863         expand
+    12           23          98.9863         reflect
+    13           25           77.502         expand
+    14           27          60.0712         expand
+    15           29          1.10073         expand
+    16           31         -40.4548         expand
+    17           33         -199.821         expand
+    18           35         -248.217         expand
+    19           37         -608.994         expand
+    20           38         -608.994         reflect
+    21           40         -939.805         expand
+    22           42         -1637.29         expand
+    23           44         -1971.61         expand
+    24           46            -4077         expand
+    25           47            -4077         reflect
+    26           49         -7476.16         expand
+    27           51         -9891.53         expand
+    28           53         -19198.3         expand
+    29           55         -24589.3         expand
+    30           57         -49565.6         expand
+    31           58         -49565.6         reflect
+    32           60          -100674         expand
+    33           61          -100674         reflect
+    34           63          -202836         expand
+    35           64          -202836         reflect
+    36           66          -383308         expand
+    37           68          -505939         expand
+    38           70          -891894         expand
+    39           72     -1.35928e+06         expand
+    40           74     -2.17995e+06         expand
+    41           76     -3.53052e+06         expand
+    42           78     -4.79414e+06         expand
+    43           80     -7.26191e+06         expand
+    44           81     -7.26191e+06         reflect
+    45           83     -7.34894e+06         reflect
+    46           85     -1.04698e+07         expand
+    47           86     -1.04698e+07         reflect
+    48           88     -1.61194e+07         expand
+    49           89     -1.61194e+07         reflect
+    50           91      -2.3962e+07         expand
+ 
+Exiting: Maximum number of iterations has been exceeded
+         - increase MaxIter option.
+         Current function value: -23961988.061181 
+
+ 
+ Iteration   Func-count     min f(x)         Procedure
+     0            1              298         
+     1            3              298         initial simplex
+     2            5           268.07         expand
+     3            7          244.582         expand
+     4            9          191.078         expand
+     5           11          141.083         expand
+     6           13          126.363         reflect
+     7           15          112.998         reflect
+     8           17          112.998         contract outside
+     9           19          112.998         contract inside
+    10           20          112.998         reflect
+    11           22          98.9863         expand
+    12           23          98.9863         reflect
+    13           25           77.502         expand
+    14           27          60.0712         expand
+    15           29          1.10073         expand
+    16           31         -40.4548         expand
+    17           33         -199.821         expand
+    18           35         -248.217         expand
+    19           37         -608.994         expand
+    20           38         -608.994         reflect
+    21           40         -939.805         expand
+    22           42         -1637.29         expand
+    23           44         -1971.61         expand
+    24           46            -4077         expand
+    25           47            -4077         reflect
+    26           49         -7476.16         expand
+    27           51         -9891.53         expand
+    28           53         -19198.3         expand
+    29           55         -24589.3         expand
+    30           57         -49565.6         expand
+    31           58         -49565.6         reflect
+    32           60          -100674         expand
+    33           61          -100674         reflect
+    34           63          -202836         expand
+    35           64          -202836         reflect
+    36           66          -383308         expand
+    37           68          -505939         expand
+    38           70          -891894         expand
+    39           72     -1.35928e+06         expand
+    40           74     -2.17995e+06         expand
+    41           76     -3.53052e+06         expand
+    42           78     -4.79414e+06         expand
+    43           80     -7.26191e+06         expand
+    44           81     -7.26191e+06         reflect
+    45           83     -7.34894e+06         reflect
+    46           85     -1.04698e+07         expand
+    47           86     -1.04698e+07         reflect
+    48           88     -1.61194e+07         expand
+    49           89     -1.61194e+07         reflect
+    50           91      -2.3962e+07         expand
+ 
+Exiting: Maximum number of iterations has been exceeded
+         - increase MaxIter option.
+         Current function value: -23961988.061181 
+
+ 
+ Iteration   Func-count     min f(x)         Procedure
+     0            1              298         
+     1            3              298         initial simplex
+     2            5           268.07         expand
+     3            7          244.582         expand
+     4            9          191.078         expand
+     5           11          141.083         expand
+     6           13          126.363         reflect
+     7           15          112.998         reflect
+     8           17          112.998         contract outside
+     9           19          112.998         contract inside
+    10           20          112.998         reflect
+    11           22          98.9863         expand
+    12           23          98.9863         reflect
+    13           25           77.502         expand
+    14           27          60.0712         expand
+    15           29          1.10073         expand
+    16           31         -40.4548         expand
+    17           33         -199.821         expand
+    18           35         -248.217         expand
+    19           37         -608.994         expand
+    20           38         -608.994         reflect
+    21           40         -939.805         expand
+    22           42         -1637.29         expand
+    23           44         -1971.61         expand
+    24           46            -4077         expand
+    25           47            -4077         reflect
+    26           49         -7476.16         expand
+    27           51         -9891.53         expand
+    28           53         -19198.3         expand
+    29           55         -24589.3         expand
+    30           57         -49565.6         expand
+    31           58         -49565.6         reflect
+    32           60          -100674         expand
+    33           61          -100674         reflect
+    34           63          -202836         expand
+    35           64          -202836         reflect
+    36           66          -383308         expand
+    37           68          -505939         expand
+    38           70          -891894         expand
+    39           72     -1.35928e+06         expand
+    40           74     -2.17995e+06         expand
+    41           76     -3.53052e+06         expand
+    42           78     -4.79414e+06         expand
+    43           80     -7.26191e+06         expand
+    44           81     -7.26191e+06         reflect
+    45           83     -7.34894e+06         reflect
+    46           85     -1.04698e+07         expand
+    47           86     -1.04698e+07         reflect
+    48           88     -1.61194e+07         expand
+    49           89     -1.61194e+07         reflect
+    50           91      -2.3962e+07         expand
+ 
+Exiting: Maximum number of iterations has been exceeded
+         - increase MaxIter option.
+         Current function value: -23961988.061181 
+
+ 
+ Iteration   Func-count     min f(x)         Procedure
+     0            1              298         
+     1            3              298         initial simplex
+     2            5           268.07         expand
+     3            7          244.582         expand
+     4            9          191.078         expand
+     5           11          141.083         expand
+     6           13          126.363         reflect
+     7           15          112.998         reflect
+     8           17          112.998         contract outside
+     9           19          112.998         contract inside
+    10           20          112.998         reflect
+    11           22          98.9863         expand
+    12           23          98.9863         reflect
+    13           25           77.502         expand
+    14           27          60.0712         expand
+    15           29          1.10073         expand
+    16           31         -40.4548         expand
+    17           33         -199.821         expand
+    18           35         -248.217         expand
+    19           37         -608.994         expand
+    20           38         -608.994         reflect
+    21           40         -939.805         expand
+    22           42         -1637.29         expand
+    23           44         -1971.61         expand
+    24           46            -4077         expand
+    25           47            -4077         reflect
+    26           49         -7476.16         expand
+    27           51         -9891.53         expand
+    28           53         -19198.3         expand
+    29           55         -24589.3         expand
+    30           57         -49565.6         expand
+    31           58         -49565.6         reflect
+    32           60          -100674         expand
+    33           61          -100674         reflect
+    34           63          -202836         expand
+    35           64          -202836         reflect
+    36           66          -383308         expand
+    37           68          -505939         expand
+    38           70          -891894         expand
+    39           72     -1.35928e+06         expand
+    40           74     -2.17995e+06         expand
+    41           76     -3.53052e+06         expand
+    42           78     -4.79414e+06         expand
+    43           80     -7.26191e+06         expand
+    44           81     -7.26191e+06         reflect
+    45           83     -7.34894e+06         reflect
+    46           85     -1.04698e+07         expand
+    47           86     -1.04698e+07         reflect
+    48           88     -1.61194e+07         expand
+    49           89     -1.61194e+07         reflect
+    50           91      -2.3962e+07         expand
+ 
+Exiting: Maximum number of iterations has been exceeded
+         - increase MaxIter option.
+         Current function value: -23961988.061181 
+
+ 
+ Iteration   Func-count     min f(x)         Procedure
+     0            1              298         
+     1            3              298         initial simplex
+     2            5           268.07         expand
+     3            7          244.582         expand
+     4            9          191.078         expand
+     5           11          141.083         expand
+     6           13          126.363         reflect
+     7           15          112.998         reflect
+     8           17          112.998         contract outside
+     9           19          112.998         contract inside
+    10           20          112.998         reflect
+    11           22          98.9863         expand
+    12           23          98.9863         reflect
+    13           25           77.502         expand
+    14           27          60.0712         expand
+    15           29          1.10073         expand
+    16           31         -40.4548         expand
+    17           33         -199.821         expand
+    18           35         -248.217         expand
+    19           37         -608.994         expand
+    20           38         -608.994         reflect
+    21           40         -939.805         expand
+    22           42         -1637.29         expand
+    23           44         -1971.61         expand
+    24           46            -4077         expand
+    25           47            -4077         reflect
+    26           49         -7476.16         expand
+    27           51         -9891.53         expand
+    28           53         -19198.3         expand
+    29           55         -24589.3         expand
+    30           57         -49565.6         expand
+    31           58         -49565.6         reflect
+    32           60          -100674         expand
+    33           61          -100674         reflect
+    34           63          -202836         expand
+    35           64          -202836         reflect
+    36           66          -383308         expand
+    37           68          -505939         expand
+    38           70          -891894         expand
+    39           72     -1.35928e+06         expand
+    40           74     -2.17995e+06         expand
+    41           76     -3.53052e+06         expand
+    42           78     -4.79414e+06         expand
+    43           80     -7.26191e+06         expand
+    44           81     -7.26191e+06         reflect
+    45           83     -7.34894e+06         reflect
+    46           85     -1.04698e+07         expand
+    47           86     -1.04698e+07         reflect
+    48           88     -1.61194e+07         expand
+    49           89     -1.61194e+07         reflect
+    50           91      -2.3962e+07         expand
+ 
+Exiting: Maximum number of iterations has been exceeded
+         - increase MaxIter option.
+         Current function value: -23961988.061181 
+
+ 
+ Iteration   Func-count     min f(x)         Procedure
+     0            1              298         
+     1            3              298         initial simplex
+     2            5           268.07         expand
+     3            7          244.582         expand
+     4            9          191.078         expand
+     5           11          141.083         expand
+     6           13          126.363         reflect
+     7           15          112.998         reflect
+     8           17          112.998         contract outside
+     9           19          112.998         contract inside
+    10           20          112.998         reflect
+    11           22          98.9863         expand
+    12           23          98.9863         reflect
+    13           25           77.502         expand
+    14           27          60.0712         expand
+    15           29          1.10073         expand
+    16           31         -40.4548         expand
+    17           33         -199.821         expand
+    18           35         -248.217         expand
+    19           37         -608.994         expand
+    20           38         -608.994         reflect
+    21           40         -939.805         expand
+    22           42         -1637.29         expand
+    23           44         -1971.61         expand
+    24           46            -4077         expand
+    25           47            -4077         reflect
+    26           49         -7476.16         expand
+    27           51         -9891.53         expand
+    28           53         -19198.3         expand
+    29           55         -24589.3         expand
+    30           57         -49565.6         expand
+    31           58         -49565.6         reflect
+    32           60          -100674         expand
+    33           61          -100674         reflect
+    34           63          -202836         expand
+    35           64          -202836         reflect
+    36           66          -383308         expand
+    37           68          -505939         expand
+    38           70          -891894         expand
+    39           72     -1.35928e+06         expand
+    40           74     -2.17995e+06         expand
+    41           76     -3.53052e+06         expand
+    42           78     -4.79414e+06         expand
+    43           80     -7.26191e+06         expand
+    44           81     -7.26191e+06         reflect
+    45           83     -7.34894e+06         reflect
+    46           85     -1.04698e+07         expand
+    47           86     -1.04698e+07         reflect
+    48           88     -1.61194e+07         expand
+    49           89     -1.61194e+07         reflect
+    50           91      -2.3962e+07         expand
+ 
+Exiting: Maximum number of iterations has been exceeded
+         - increase MaxIter option.
+         Current function value: -23961988.061181 
+
